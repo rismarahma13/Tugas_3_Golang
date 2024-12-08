@@ -1,1 +1,2 @@
-# Tugas_3_Golang
+# TugasGolang3
+Tugas dari Mikti
